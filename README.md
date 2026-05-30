@@ -14,7 +14,7 @@ This project contains a Cisco Packet Tracer network topology.
 - Network security configuration
 
 ## Files
-- `topology.pkt` - Cisco Packet Tracer project file
+- `NETWORK 001.pkt` - Cisco Packet Tracer project file
 
 ## Requirements
 - Cisco Packet Tracer 8.x or later
